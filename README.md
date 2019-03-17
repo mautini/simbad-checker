@@ -2,7 +2,7 @@
 
 Repository for the SimBad Checker Android app availaible here : [SimBad Checker](https://play.google.com/store/apps/details?id=com.androdevcafe.simbadchecker)
 
-![](./app/src/main/ic_launcher-web.png)
+<img src="./app/src/main/ic_launcher-web.png" width="50%">
 
 # What is SimBad
 
@@ -14,9 +14,7 @@ This app offer a very quick way to know if you have on your device an infected a
 
 # Screenshots
 
-![](./device-2019-03-17-024051.png)
-
-![](./device-2019-03-17-024203.png)
+<img src="./device-2019-03-17-024051.png" width="30%"> <img src="./device-2019-03-17-024203.png" width="30%">
 
 # Donation
 
