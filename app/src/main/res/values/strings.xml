@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SimBad Checker</string>
+
+    <string name="checking_apps">Checking your apps…</string>
+    <string name="settings">Settings</string>
+
+    <plurals name="number_infected_apps">
+        <item quantity="one">%d infected app found</item>
+        <item quantity="other">%d infected apps found</item>
+    </plurals>
+    <string name="no_infected_app_found">No infected app found, your device looks safe!</string>
+
+    <!-- Info activity -->
+    <string name="about">About</string>
+    <string name="thanks_using_app">Thanks for using the app!</string>
+    <string name="explanations">
+        This app features a simple way to look for application installed on your device infected with SimBad Adware.\n\nSimBad Adware was discovered by the Check Point team (I\'m NOT part of this team) in 206 applications for +150 million downloads and can do three things : Show Ads, Phishing and Exposure to other applications\n\nThis application rely on the list of infected applications published on checkpoint website. \n\nNote that this app only check currently installed applications, it cannot check if your were previously infected if you uninstalled the application. \n\nMore information here : https://research.checkpoint.com/simbad-a-rogue-adware-campaign-on-google-play \n\nIf you liked this application and want to support my work, please consider making a donation using the button below (for the price of a coffee). Thanks!
+    </string>
+    <string name="donate">Donate</string>
+    <string name="error_loading_store">Error loading information from play store</string>
+    <string name="thanks_for_donation">Thank you so much for supporting my work!</string>
+    <string name="cancel_donation">You cancel the donation but thanks for using my app!</string>
+    <string name="error_donation">An error occurred during the donation…</string>
+    <string name="retry">Retry</string>
+
+    <!-- Action bar -->
+    <string name="refresh">Refresh</string>
+    <string name="info">Info</string>
+
+    <string name="accessibility_app_icon">Icon of the application</string>
+    <string name="accessibility_warning_icon">Warning icon</string>
+    <string name="accessibility_ok_icon">OK icon</string>
+</resources>
