@@ -6,7 +6,7 @@ Repository for the SimBad Checker Android app available here : [SimBad Checker](
 
 # What is SimBad
 
-SimBad is an A Rogue Adware discovered by CheckPoint team on 206 Android applications (for more than 150+ millions download). Complete details can be found in this [CheckPoint article](https://research.checkpoint.com/simbad-a-rogue-adware-campaign-on-google-play/).
+SimBad is an a Rogue Adware discovered by CheckPoint team on 206 Android applications (for more than 150+ millions download). Complete details can be found in this [CheckPoint article](https://research.checkpoint.com/simbad-a-rogue-adware-campaign-on-google-play/).
 
 # Why this app ?
 
