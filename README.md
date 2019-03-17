@@ -1,6 +1,6 @@
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YGHJ7S2WGJSFE&source=url)
 
-Repository for the SimBad Checker Android app availaible here : [SimBad Checker](https://play.google.com/store/apps/details?id=com.androdevcafe.simbadchecker)
+Repository for the SimBad Checker Android app available here : [SimBad Checker](https://play.google.com/store/apps/details?id=com.androdevcafe.simbadchecker)
 
 <img src="./app/src/main/ic_launcher-web.png" width="50%">
 
